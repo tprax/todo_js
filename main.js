@@ -1,2 +1,2 @@
-var newTodo = document.getElementById(new_todo)
+var newTodo = onClick.document.getElementById(todo)
 console.log(newTodo)
