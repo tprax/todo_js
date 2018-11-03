@@ -1,3 +1,2 @@
-var greeting = "hi how are you today?"
-
-console.log(greeting)
+var newTodo = document.getElementById(new_todo)
+console.log(newTodo)
