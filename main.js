@@ -1,2 +1,3 @@
-var newTodo = onClick.document.getElementById(todo)
-console.log(newTodo)
+var newTodo = document.getElementById(todo)
+
+newTodo.addEventListener('click',function(){ Console.log(todo)})
