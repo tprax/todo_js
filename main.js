@@ -1,3 +1,5 @@
-var newTodo = document.getElementById(todo)
 
-newTodo.addEventListener('click',function(){ Console.log(todo)})
+var newTodo = document.getElementById('todo')
+newTodo.addEventListener('click', function() {
+   console.log(todo)
+})
